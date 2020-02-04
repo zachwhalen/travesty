@@ -9,7 +9,7 @@ PROGRAM travesty (input,output);            { Kenner/ O'Rourke, 5/9/84}
 (*           "Any pattern n characters long in the output            *)
 (*               has occurred somewhere in the input,                *)
 (*                 and at about the same frequency."                 *)
-(*     Input should be ready on disk. Pogram asks how many           *)
+(*     Input should be ready on disk. Program asks how many           *)
 (*     characters of output you want. It next asks for the           *)
 (*     "Order" -- i.e. how long a string of characters will be       *)
 (*     cloned to output when found. You are asked for the            *)
